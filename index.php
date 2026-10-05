@@ -12,6 +12,8 @@
 
 
 
+
+
 <header class="p-3 text-bg-dark">
     <div class="container">
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
@@ -32,13 +34,24 @@
 
 
 
+
+
+
 <div class="container">
-<div class="p-5 bg-primary text-white text-center">
+<div class="p-5 bg-danger text-white text-center">
     <h1>Hořovice</h1>
     <p>Moje město</p>
 </div>
 
     <hr>
+
+
+
+
+
+
+
+
 
 <main role="main">
 
@@ -66,6 +79,13 @@
 
         <hr>
 
+
+
+
+
+
+
+
     </div> <!-- /container -->
 
 </main>
@@ -88,6 +108,14 @@
     </div>
 
     <hr>
+
+
+
+
+
+
+
+
 
     <div class="container">
         <div class="row">
@@ -129,6 +157,14 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
+
     <footer class="pt-4 my-md-5 pt-md-5 border-top"> <div class="row">
         <div class="col-6 col-md"> <h5>Features</h5>
             <ul class="list-unstyled text-small">
@@ -149,6 +185,9 @@
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Privacy</a></li>
                 <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Terms</a></li> </ul> </div> </div> </footer>
 </div>
+
+
+
 
 
 
