@@ -26,6 +26,7 @@ echo "<br>";
 
 
 echo "<h1>Datové typy</h1>";
+
 echo "<br>"
 var_dump($name);
 echo "<br>"
