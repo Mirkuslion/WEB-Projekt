@@ -5,9 +5,20 @@ $studentName = "Mirko Vlach";
 echo "<h2>$studentName</h2>";
 echo "<h2>Výsledky testů</h2>";
 
-$test1 = 9; 
-$test2 = 9; 
-$test3 = 9;
+$test1 = 101; 
+$test2 = 5; 
+$test3 = 5;
+
+if ($test1 < 0 || $test1 > 100 || $test2 < 0 || $test2 > 100 || $test3 < 0 || $test3 > 100) {
+echo"Neplatný počet bodů";
+
+}
+else{
+
+}
+
+
+
 
 $soucet = $test1 + $test2 + $test3;
 echo "Celkem: $soucet bodu z 300"; 
