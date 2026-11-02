@@ -25,5 +25,17 @@ echo "<strong> $favoriteLanguage </strong>";
 echo "<br>";
 
 
-?>
-<h1>Datové typy</h1>
+echo "<h1>Datové typy</h1>";
+echo "<br>"
+var_dump($name);
+echo "<br>"
+var_dump($age);
+echo "<br>"
+var_dump($trida);
+echo "<br>"
+var_dump($height);
+echo "<br>"
+var_dump($isStudent);
+echo "<br>"
+var_dump($favoriteLanguage);
+
