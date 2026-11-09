@@ -27,16 +27,16 @@ echo "<br>";
 
 echo "<h1>Datové typy</h1>";
 
-echo "<br>"
-var_dump($name);
-echo "<br>"
+echo "<br>";
+var_dump ($name);
+echo "<br>";
 var_dump($age);
-echo "<br>"
+echo "<br>";
 var_dump($trida);
-echo "<br>"
+echo "<br>";
 var_dump($height);
-echo "<br>"
+echo "<br>";
 var_dump($isStudent);
-echo "<br>"
+echo "<br>";
 var_dump($favoriteLanguage);
 
