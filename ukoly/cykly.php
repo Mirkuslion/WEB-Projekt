@@ -58,7 +58,7 @@ while($number < 5);
 ?>
 
 
-<h1>Ukol F</h1>
+<h1>Ukol G</h1>
 <?php
 $i = 1;
 while ($i <= 5) {
