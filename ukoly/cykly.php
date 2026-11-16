@@ -56,3 +56,13 @@ do {echo $number . "<br>";
 }
 while($number < 5);
 ?>
+
+
+<h1>Ukol F</h1>
+<?php
+$i = 1;
+while ($i <= 5) {
+echo "$i<br>";
+$i++;
+}
+?>
